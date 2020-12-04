@@ -1,6 +1,6 @@
 # Moon-Miner
 
-![Moon](./moon.jpg)
+![Moon](https://bcw.blob.core.windows.net/public//2759777406801598)
 Legend holds that the moon is made of cheese. We sent a team of astronauts and discovered that it was true! It was only a matter of time before mining this treasure became big business. Begin your corporation on their endeavor to mine the moon!
 
 ## Goals
